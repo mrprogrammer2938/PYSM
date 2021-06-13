@@ -23,4 +23,4 @@ SM.help()
 
 [Instagram](https://instagram.com/programmer2938)
 
-[Pinterest](https://www.pintere
+[Pinterest](https://www.pinterest.com/mrprogrammer2938)
